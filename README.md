@@ -23,22 +23,8 @@ The model generates association rules to identify product pairs frequently bough
 ## Results
 - Casino has predictive value to trigger purchases of Racing Team, Patron, and Melrose.
 - Cross-targeting recommendations for these products based on custom audience segmentation.
+- 
+- Cross sell opportunity using custom audiences in Bottom of Funnel.
 
-## Folder Structure
-```plaintext
-Product-Affinity-Insights/
-│
-├── data/
-│   └── transactions.csv        # Anonymized dataset
-│
-├── notebooks/
-│   └── apriori_analysis.ipynb   # Jupyter notebook with the Apriori implementation
-│
-├── outputs/
-│   └── association_rules.csv    # Exported association rules
-│
-├── README.md                    # Project overview and documentation
-│
-├── requirements.txt             # Python dependencies
-│
-└── apriori_analysis.py          # Python script to run the Apriori analysis
+By leveraging these custom audiences, we can implement cross-targeting strategies in the Bottom of Funnel (BOF) to drive engagement and conversions. 
+This allows us to focus marketing efforts on users who show affinities for products like Casino, Racing Team, Patron, and Melrose, enhancing personalization and improving cross-sell opportunities.
