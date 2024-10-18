@@ -1,10 +1,10 @@
 # AffinityEngine
 Identifying product affinities and customer behavior insights.
 
-# Product Affinity Insights & Predictions
+# Product Affinity Insights & Recommendations
 
 ## Overview
-This project demonstrates product affinity discovery using the Apriori algorithm on an anonymized customer transaction dataset using circa 30,000 customer profiles. The goal is to uncover product affinities and predict future co-purchases, enabling more effective cross-sell and upsell strategies.
+This project demonstrates product affinity discovery using the Apriori algorithm on an anonymized customer transaction dataset using circa 30,000 customer profiles. The goal is to uncover product affinities and predict future co-purchases, enabling recommendations for more effective cross-sell and upsell strategies.
 
 ### Hypotheses
 - **Hypothesis 1**: Identify strong co-purchase patterns between specific products.
